@@ -1,5 +1,5 @@
 # Workflow triggered by push to main
-# Publish documentation to pages (try 5)
+# Publish documentation to pages
 name: Publish documentation to pages
 
 on: 
